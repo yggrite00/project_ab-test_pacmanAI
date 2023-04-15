@@ -1,0 +1,8 @@
+#data https://data.jakarta.go.id/dataset/data-penumpang-bus-transjakarta-januari-2021 
+#menggabungkan file csv menjadi satu
+''' Python
+# Package/library untuk manipulasi data
+import pandas as pd
+import numpy as np
+import scipy.stats as stats
+'''
